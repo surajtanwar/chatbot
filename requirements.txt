@@ -1,2 +1,9 @@
-streamlit
-openai
+langgraph==0.6.1
+langgraph-checkpoint==2.1.1
+langgraph-checkpoint-sqlite==2.0.11
+langchain-core==0.3.72
+langchain-openai==0.3.28
+openai==1.98.0
+streamlit==1.47.1
+python-dotenv==1.1.1
+pydantic==2.11.7
